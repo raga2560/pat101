@@ -1,4 +1,17 @@
 # pat101
+http://www.ipindia.nic.in/writereaddata/Portal/IPOGuidelinesManuals/1_28_1_manual-of-patent-office-practice_and-procedure.pdf
+Rule 15
+e) Drawings shall be sequentially or systematically numbered
+and shall bear—
+i. in the left hand top corner, the name of the applicant;
+ii. in the right hand top corner, the number of the sheets
+of drawings, and the consecutive number of each
+sheet; and
+iii. in the right hand bottom corner, the signature of the
+applicant or his agent.
+f) No descriptive matter shall appear on the drawings except in
+the flow diagrams.
+
 
 http://www.ipindia.nic.in/writereaddata/Portal/IPOGuidelinesManuals/1_28_1_manual-of-patent-office-practice_and-procedure.pdf
 8. Every application shall bear the Signature of the
