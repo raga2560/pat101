@@ -1,4 +1,32 @@
 # pat101
+
+send draft, to yogeshbajaj.ipo@nic.in
+3m, hardware limitation is introduced for claims
+
+3k, technical advancement,compared to conventinal steps,
+what is the good effect of this, what effect/benefit we got
+one example. (Not a money example)
+
+Don't use word transaction
+exond JSON (java script object notation)
+
+For computing system have reference
+
+Remove 18, 19, 20
+
+Remove 16
+Replace 17, with 
+to acrry out the methods as claimed in claim-1
+
+For couling example refer specification (if needed)
+
+Don't make drawing changes -> that is a big process to 
+
+Remove reference to "computer program product" from specification
+
+The marker copy of differences should indicate -> which figure, when a block is introduced.
+
+
 http://www.ipindia.nic.in/writereaddata/Portal/IPOGuidelinesManuals/1_28_1_manual-of-patent-office-practice_and-procedure.pdf
 Rule 15
 e) Drawings shall be sequentially or systematically numbered
