@@ -1,6 +1,6 @@
 # pat101
 
-send draft, to yogeshbajaj.ipo@nic.in
+send draft, to officetr
 3m, hardware limitation is introduced for claims
 
 3k, technical advancement,compared to conventinal steps,
